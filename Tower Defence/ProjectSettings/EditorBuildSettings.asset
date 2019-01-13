@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/towerDefence.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 8789177f7611d664a997893dc9649bd1
+  - enabled: 1
+    path: Assets/LevelSelect.unity
+    guid: bfc1cfb4d8b76db488428630ce3a3e99
+  - enabled: 1
+    path: Assets/Level01.unity
+    guid: b283b2105c9291c4cab8fdc8e2fd183b
+  - enabled: 0
+    path: 
+    guid: 40ac8dab361432747adae205fab13a8b
+  - enabled: 0
+    path: 
+    guid: 84259c55500d73c49a6f5172ff2558cf
+  - enabled: 1
+    path: Assets/Level02.unity
+    guid: 8077a6a132d24464aa89b9b21f55ce3e
+  - enabled: 0
+    path: 
+    guid: cc7a5faacd110fe40896fad0dc660a59
+  m_configObjects: {}

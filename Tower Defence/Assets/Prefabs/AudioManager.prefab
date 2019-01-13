@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1464904378721200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4229614329803872}
+  - component: {fileID: 114819659430483266}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4229614329803872
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1464904378721200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114819659430483266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1464904378721200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30c90a6edd5e04549855e2c2af49f9ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Dukenukem
+    clip: {fileID: 8300000, guid: 9981182bec6fe2b4991ddcb8e4326960, type: 3}
+    volume: 0.228
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: LaserGun
+    clip: {fileID: 8300000, guid: 1e6a94b23a3fb774ebeca0a3f3ba0d40, type: 3}
+    volume: 0.08
+    pitch: 0.84
+    loop: 0
+    source: {fileID: 0}
+  - name: Theme
+    clip: {fileID: 8300000, guid: 63b485fafb444c449a71b1a0d61c043d, type: 3}
+    volume: 0.118
+    pitch: 0.61
+    loop: 1
+    source: {fileID: 0}
+  - name: Rocketlauncher
+    clip: {fileID: 8300000, guid: a7f854646534bf043af45be0d8202232, type: 3}
+    volume: 0.118
+    pitch: 0.61
+    loop: 0
+    source: {fileID: 0}
+  - name: Explosion
+    clip: {fileID: 8300000, guid: f7f3bf587dee93d4aaffbff2050eb966, type: 3}
+    volume: 0.097
+    pitch: 0.61
+    loop: 0
+    source: {fileID: 0}
+  - name: Enemy-explosion
+    clip: {fileID: 8300000, guid: bf0291af5cbf3c3469ba746314449fd0, type: 3}
+    volume: 0.104
+    pitch: 0.61
+    loop: 0
+    source: {fileID: 0}

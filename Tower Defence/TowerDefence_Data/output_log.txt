@@ -1,0 +1,93 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     1013 MB
+    Driver:   15.301.1701.1002
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity\Tower Defence\TowerDefence_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity\Tower Defence\TowerDefence_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity\Tower Defence\TowerDefence_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity\Tower Defence\TowerDefence_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity\Tower Defence\TowerDefence_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity\Tower Defence\TowerDefence_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity\Tower Defence\TowerDefence_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity\Tower Defence\TowerDefence_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.316 seconds
+Platform assembly: C:\Unity\Tower Defence\TowerDefence_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity\Tower Defence\TowerDefence_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.323787 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5f8 -> priority: 1 
+  Thread -> id: cb8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.566866 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 1.099133 ms (FindLiveObjects: 0.116581 ms CreateObjectMapping: 0.062954 ms MarkObjects: 0.733066 ms  DeleteObjects: 0.184199 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LevelSelector.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.950804 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2175.
+Total: 1.845257 ms (FindLiveObjects: 0.355341 ms CreateObjectMapping: 0.086270 ms MarkObjects: 1.386857 ms  DeleteObjects: 0.014456 ms)
+
+Standard Turret Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret build!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret build!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Standard Turret Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret build!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.449230 ms
+
+Unloading 200 unused Assets to reduce memory usage. Loaded Objects now: 2178.
+Total: 4.174563 ms (FindLiveObjects: 0.613686 ms CreateObjectMapping: 0.142229 ms MarkObjects: 2.163759 ms  DeleteObjects: 1.251622 ms)
+
+Missile Launcher Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret build!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Turret upgraded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.147128 ms
+
+Unloading 408 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 5.587535 ms (FindLiveObjects: 0.272335 ms CreateObjectMapping: 0.148758 ms MarkObjects: 1.419967 ms  DeleteObjects: 3.742277 ms)
+
+Exciting...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
